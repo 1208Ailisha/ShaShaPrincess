@@ -23,20 +23,20 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="admin-web" target="1.8" />
-      <module name="all-parent" target="1.8" />
-      <module name="client-feign" target="1.8" />
-      <module name="client-ribbon" target="1.8" />
+      <module name="client-feign" target="1.5" />
+      <module name="client-ribbon" target="1.5" />
+      <module name="cloud-parent" target="1.8" />
       <module name="cmsweb" target="1.8" />
-      <module name="config-client" target="1.8" />
-      <module name="config-server" target="1.8" />
-      <module name="eureka-config-server" target="1.8" />
-      <module name="eureka-server" target="1.8" />
-      <module name="service-hi" target="1.8" />
+      <module name="config-client" target="1.5" />
+      <module name="config-server" target="1.5" />
+      <module name="eureka-config-server" target="1.5" />
+      <module name="eureka-server" target="1.5" />
+      <module name="service-hi" target="1.5" />
       <module name="spring-dev" target="1.8" />
-      <module name="zipkin-server" target="1.8" />
-      <module name="zipkin-service-hi" target="1.8" />
-      <module name="zipkin-service-miya" target="1.8" />
-      <module name="zuul-server" target="1.8" />
+      <module name="zipkin-server" target="1.5" />
+      <module name="zipkin-service-hi" target="1.5" />
+      <module name="zipkin-service-miya" target="1.5" />
+      <module name="zuul-server" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
