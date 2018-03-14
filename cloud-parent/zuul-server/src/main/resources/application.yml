@@ -1,0 +1,22 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka/
+server:
+  port: 8769
+spring:
+  application:
+    name: server-zuul
+zuul:
+  routes:
+    api-a:
+      path: /api-a/**
+      serviceId: client-ribbon
+      #url:  http://localhost:9000/表示/api-a/**的请求都发往9000这个服务
+    api-b:
+      path: /api-b/**
+      serviceId: client-feign
+
+      #http://localhost:8769/api-a/hi?name=forezp
+      #http://localhost:8769/api-b/hi?name=forezp
+      #Zuul的路由规则如下：http://ZUUL_HOST:ZUUL_PORT/微服务在Eureka上的serviceId/**会被转发到serviceId对应的微服务。
