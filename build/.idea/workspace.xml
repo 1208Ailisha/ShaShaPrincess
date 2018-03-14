@@ -5,18 +5,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cloud-parent/client-feign/pom.xml" afterPath="$PROJECT_DIR$/../cloud-parent/client-feign/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cloud-parent/client-ribbon/pom.xml" afterPath="$PROJECT_DIR$/../cloud-parent/client-ribbon/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cloud-parent/config-client/pom.xml" afterPath="$PROJECT_DIR$/../cloud-parent/config-client/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cloud-parent/config-server/pom.xml" afterPath="$PROJECT_DIR$/../cloud-parent/config-server/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cloud-parent/eureka-config-server/pom.xml" afterPath="$PROJECT_DIR$/../cloud-parent/eureka-config-server/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cloud-parent/eureka-server/pom.xml" afterPath="$PROJECT_DIR$/../cloud-parent/eureka-server/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cloud-parent/service-hi/pom.xml" afterPath="$PROJECT_DIR$/../cloud-parent/service-hi/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cloud-parent/zipkin-server/pom.xml" afterPath="$PROJECT_DIR$/../cloud-parent/zipkin-server/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cloud-parent/zipkin-service-hi/pom.xml" afterPath="$PROJECT_DIR$/../cloud-parent/zipkin-service-hi/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cloud-parent/zipkin-service-miya/pom.xml" afterPath="$PROJECT_DIR$/../cloud-parent/zipkin-service-miya/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cloud-parent/zuul-server/pom.xml" afterPath="$PROJECT_DIR$/../cloud-parent/zuul-server/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../cloud-parent/eureka-config-server/target/" />
     <ignored path="$PROJECT_DIR$/../cloud-parent/zipkin-server/target/" />
@@ -792,7 +780,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521005028470</updated>
       <workItem from="1521005032263" duration="947000" />
-      <workItem from="1521006477727" duration="5667000" />
+      <workItem from="1521006477727" duration="5689000" />
     </task>
     <task id="LOCAL-00001" summary="test file commit">
       <created>1521005326425</created>
@@ -815,11 +803,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521005848989</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test file commit">
+      <created>1521012169213</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1521012169213</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6614000" />
+    <option name="totallyTimeSpent" value="6636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
