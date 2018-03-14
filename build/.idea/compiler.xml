@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin-web" />
+        <module name="client-feign" />
+        <module name="client-ribbon" />
+        <module name="cmsweb" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="eureka-config-server" />
+        <module name="eureka-server" />
+        <module name="service-hi" />
+        <module name="zipkin-server" />
+        <module name="zipkin-service-hi" />
+        <module name="zipkin-service-miya" />
+        <module name="zuul-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin-web" target="1.8" />
+      <module name="all-parent" target="1.8" />
+      <module name="client-feign" target="1.8" />
+      <module name="client-ribbon" target="1.8" />
+      <module name="cmsweb" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="spring-dev" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+      <module name="zipkin-service-hi" target="1.8" />
+      <module name="zipkin-service-miya" target="1.8" />
+      <module name="zuul-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
+  </component>
+</project>

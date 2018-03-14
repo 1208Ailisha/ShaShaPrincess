@@ -4,18 +4,18 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ailisha</groupId>
-	<artifactId>cloud-parent</artifactId>
+	<artifactId>spring-dev</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>cloud-parent</name>
-	<description>Demo project for Spring Boot</description>
+	<name>spring-dev</name>
+	<description>Dev Project</description>
 
 	<parent>
-		<groupId>com.ailisha</groupId>
-		<artifactId>spring-dev</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>../build/</relativePath>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.9.RELEASE</version>
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
 	<properties>
@@ -70,17 +70,9 @@
 
 	<!-- modules -->
 	<modules>
-		<module>eureka-server</module>
-		<module>service-hi</module>
-		<module>client-ribbon</module>
-		<module>client-feign</module>
-		<module>zuul-server</module>
-		<module>config-server</module>
-		<module>config-client</module>
-		<module>eureka-config-server</module>
-		<module>zipkin-server</module>
-		<module>zipkin-service-hi</module>
-		<module>zipkin-service-miya</module>
+		<module>../cloud-parent</module>
+		<module>../cmsweb</module>
+		<module>../admin-web</module>
 	</modules>
 
 

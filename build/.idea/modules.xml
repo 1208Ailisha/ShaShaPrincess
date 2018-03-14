@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../admin-web/admin-web.iml" filepath="$PROJECT_DIR$/../admin-web/admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud-parent/all-parent.iml" filepath="$PROJECT_DIR$/../cloud-parent/all-parent.iml" group="all-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud-parent/client-feign/client-feign.iml" filepath="$PROJECT_DIR$/../cloud-parent/client-feign/client-feign.iml" group="all-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud-parent/client-ribbon/client-ribbon.iml" filepath="$PROJECT_DIR$/../cloud-parent/client-ribbon/client-ribbon.iml" group="all-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../cmsweb/cmsweb.iml" filepath="$PROJECT_DIR$/../cmsweb/cmsweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud-parent/config-client/config-client.iml" filepath="$PROJECT_DIR$/../cloud-parent/config-client/config-client.iml" group="all-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud-parent/config-server/config-server.iml" filepath="$PROJECT_DIR$/../cloud-parent/config-server/config-server.iml" group="all-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud-parent/eureka-config-server/eureka-config-server.iml" filepath="$PROJECT_DIR$/../cloud-parent/eureka-config-server/eureka-config-server.iml" group="all-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud-parent/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/../cloud-parent/eureka-server/eureka-server.iml" group="all-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud-parent/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/../cloud-parent/service-hi/service-hi.iml" group="all-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/spring-dev.iml" filepath="$PROJECT_DIR$/spring-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud-parent/zipkin-server/zipkin-server.iml" filepath="$PROJECT_DIR$/../cloud-parent/zipkin-server/zipkin-server.iml" group="all-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud-parent/zipkin-service-hi/zipkin-service-hi.iml" filepath="$PROJECT_DIR$/../cloud-parent/zipkin-service-hi/zipkin-service-hi.iml" group="all-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud-parent/zipkin-service-miya/zipkin-service-miya.iml" filepath="$PROJECT_DIR$/../cloud-parent/zipkin-service-miya/zipkin-service-miya.iml" group="all-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud-parent/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/../cloud-parent/zuul-server/zuul-server.iml" group="all-parent and modules" />
+    </modules>
+  </component>
+</project>

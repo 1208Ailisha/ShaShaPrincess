@@ -12,11 +12,11 @@
     <description>Demo project for Spring Boot</description>
 
     <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.5.6.RELEASE</version>
-        <relativePath/>
-    </parent>
+		<groupId>com.ailisha</groupId>
+		<artifactId>spring-dev</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../build/</relativePath>
+	</parent>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
