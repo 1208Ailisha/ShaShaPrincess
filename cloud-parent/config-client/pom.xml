@@ -13,7 +13,7 @@
 
 	<parent>
 		<groupId>com.ailisha</groupId>
-		<artifactId>all-parent</artifactId>
+		<artifactId>cloud-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../</relativePath>
 	</parent>
