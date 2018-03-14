@@ -68,7 +68,7 @@
 		</repository>
 	</repositories>
 
-	<!-- modules -->
+	<!-- modulesss -->
 	<modules>
 		<module>../cloud-parent</module>
 		<module>../cmsweb</module>
