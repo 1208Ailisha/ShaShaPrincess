@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/../cmsweb/cmsweb.iml" filepath="$PROJECT_DIR$/../cmsweb/cmsweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/../cloud-parent/config-client/config-client.iml" filepath="$PROJECT_DIR$/../cloud-parent/config-client/config-client.iml" group="cloud-parent and modules" />
       <module fileurl="file://$PROJECT_DIR$/../cloud-parent/config-server/config-server.iml" filepath="$PROJECT_DIR$/../cloud-parent/config-server/config-server.iml" group="cloud-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../doc/doc.iml" filepath="$PROJECT_DIR$/../doc/doc.iml" />
       <module fileurl="file://$PROJECT_DIR$/../cloud-parent/eureka-config-server/eureka-config-server.iml" filepath="$PROJECT_DIR$/../cloud-parent/eureka-config-server/eureka-config-server.iml" group="cloud-parent and modules" />
       <module fileurl="file://$PROJECT_DIR$/../cloud-parent/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/../cloud-parent/eureka-server/eureka-server.iml" group="cloud-parent and modules" />
       <module fileurl="file://$PROJECT_DIR$/../cloud-parent/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/../cloud-parent/service-hi/service-hi.iml" group="cloud-parent and modules" />

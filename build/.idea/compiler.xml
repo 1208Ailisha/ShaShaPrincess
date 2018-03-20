@@ -12,6 +12,7 @@
         <module name="cmsweb" />
         <module name="config-client" />
         <module name="config-server" />
+        <module name="doc" />
         <module name="eureka-config-server" />
         <module name="eureka-server" />
         <module name="service-hi" />
@@ -29,6 +30,7 @@
       <module name="cmsweb" target="1.8" />
       <module name="config-client" target="1.8" />
       <module name="config-server" target="1.8" />
+      <module name="doc" target="1.8" />
       <module name="eureka-config-server" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="service-hi" target="1.8" />

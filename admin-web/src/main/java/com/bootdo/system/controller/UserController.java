@@ -176,4 +176,8 @@ public class UserController extends BaseController {
 		return prefix + "/personal";
 	}
 
+	public static void main(String[] args) {
+		System.out.println(MD5Utils.encrypt("admin", "123456"));;
+	}
+
 }

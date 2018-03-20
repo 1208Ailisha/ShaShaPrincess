@@ -16,5 +16,6 @@
     <file url="file://$PROJECT_DIR$/../cloud-parent/zipkin-service-miya" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../cloud-parent/zuul-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../cmsweb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../doc" charset="UTF-8" />
   </component>
 </project>

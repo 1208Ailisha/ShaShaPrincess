@@ -73,6 +73,7 @@
 		<module>../cloud-parent</module>
 		<module>../cmsweb</module>
 		<module>../admin-web</module>
+		<module>../doc</module>
 	</modules>
 
 
