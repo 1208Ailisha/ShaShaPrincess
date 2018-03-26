@@ -1,1 +1,6 @@
 [java并发](https://www.cnblogs.com/wxd0108/p/5479442.html)  
+[多线程介绍](http://ifeve.com/java-concurrency-thread-directory/)
+[线程同步](http://ifeve.com/basic-thread-synchronization-1/)  
+[线程同步工具](http://ifeve.com/thread-synchronization-utilities-1/)
+[锁](http://ifeve.com/java_lock_see1/)
+[synchronized和锁](https://www.cnblogs.com/jiangds/p/6476293.html)
