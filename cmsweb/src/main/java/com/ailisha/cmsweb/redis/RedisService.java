@@ -11,6 +11,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * http://blog.csdn.net/defonds/article/details/48716161/
+ * https://www.cnblogs.com/haitao-xie/p/6323423.html
  * @author zengjx
  * @version $Id: RedisService.java 2017/12/28 zengjx $
  */
